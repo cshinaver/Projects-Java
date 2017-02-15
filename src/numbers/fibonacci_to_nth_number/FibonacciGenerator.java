@@ -1,4 +1,4 @@
-package com.company;
+package numbers.fibonacci_to_nth_number;
 
 import java.util.ArrayList;
 import java.util.List;

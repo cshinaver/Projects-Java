@@ -1,14 +1,14 @@
-package com.company;
+package numbers.fibonacci_to_nth_number;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class FibonacciToNthNumber {
 
     public static void main(String[] args) {
         FibonacciGenerator generator = new FibonacciGenerator();
         generator.printNFibonacciNumbers(
-                Integer.valueOf(args[0])
+                9
         );
     }
 }
